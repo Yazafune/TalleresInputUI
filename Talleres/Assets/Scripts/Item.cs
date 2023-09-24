@@ -10,4 +10,5 @@ public class Item : ScriptableObject
     public ItemCategory category;
     public string information;
     public int damage;
+    //public int defense;
 }

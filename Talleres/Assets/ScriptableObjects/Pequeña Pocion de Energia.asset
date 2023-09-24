@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 31e46322a8e818040b5491bfb3b89be5, type: 3}
-  m_Name: Woden Sword
+  m_Name: "Peque\xF1a Pocion de Energia"
   m_EditorClassIdentifier: 
-  itemName: Woden Sword
-  itemIcon: {fileID: -526909248, guid: 254a84ff742c04143b01e088ba7785af, type: 3}
-  category: 0
-  information: Prettey basic but efective depending on the situation
-  damage: 4
+  itemName: "Peque\xF1a Pocion de Energia"
+  itemIcon: {fileID: 1511737654, guid: 254a84ff742c04143b01e088ba7785af, type: 3}
+  category: 3
+  information: "Recarga una peque\xF1a parte de tu estamina"
+  damage: 0

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 31e46322a8e818040b5491bfb3b89be5, type: 3}
-  m_Name: Helmet
+  m_Name: Cota de malla dorada
   m_EditorClassIdentifier: 
-  itemName: Helmet
-  itemIcon: {fileID: -68255486, guid: 254a84ff742c04143b01e088ba7785af, type: 3}
-  category: 1
-  information: a helmet
+  itemName: Cota de malla dorada
+  itemIcon: {fileID: -912574755, guid: 254a84ff742c04143b01e088ba7785af, type: 3}
+  category: 2
+  information: Armadura usada por antigua orden
   damage: 0
